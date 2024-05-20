@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\bin\Debug\net8.0\Assignment_No_2.exe
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\bin\Debug\net8.0\Assignment_No_2.deps.json
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\bin\Debug\net8.0\Assignment_No_2.runtimeconfig.json
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\bin\Debug\net8.0\Assignment_No_2.dll
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\bin\Debug\net8.0\Assignment_No_2.pdb
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\obj\Debug\net8.0\Assignment_No_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\obj\Debug\net8.0\Assignment_No_2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\obj\Debug\net8.0\Assignment_No_2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\obj\Debug\net8.0\Assignment_No_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\obj\Debug\net8.0\Assignment_No_2.dll
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\obj\Debug\net8.0\refint\Assignment_No_2.dll
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\obj\Debug\net8.0\Assignment_No_2.pdb
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\obj\Debug\net8.0\Assignment_No_2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_2\obj\Debug\net8.0\ref\Assignment_No_2.dll
