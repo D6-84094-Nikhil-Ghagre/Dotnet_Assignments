@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\bin\Debug\net6.0\Assignment_No_10.exe
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\bin\Debug\net6.0\Assignment_No_10.deps.json
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\bin\Debug\net6.0\Assignment_No_10.runtimeconfig.json
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\bin\Debug\net6.0\Assignment_No_10.dll
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\bin\Debug\net6.0\Assignment_No_10.pdb
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\obj\Debug\net6.0\Assignment_No_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\obj\Debug\net6.0\Assignment_No_10.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\obj\Debug\net6.0\Assignment_No_10.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\obj\Debug\net6.0\Assignment_No_10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\obj\Debug\net6.0\Assignment_No_10.dll
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\obj\Debug\net6.0\refint\Assignment_No_10.dll
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\obj\Debug\net6.0\Assignment_No_10.pdb
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\obj\Debug\net6.0\Assignment_No_10.genruntimeconfig.cache
+C:\Users\Admin\source\repos\MyRepository\Assignment_No_10\obj\Debug\net6.0\ref\Assignment_No_10.dll
