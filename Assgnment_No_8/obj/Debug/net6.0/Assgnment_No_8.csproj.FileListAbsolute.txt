@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\bin\Debug\net6.0\Assgnment_No_8.exe
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\bin\Debug\net6.0\Assgnment_No_8.deps.json
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\bin\Debug\net6.0\Assgnment_No_8.runtimeconfig.json
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\bin\Debug\net6.0\Assgnment_No_8.dll
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\bin\Debug\net6.0\Assgnment_No_8.pdb
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\obj\Debug\net6.0\Assgnment_No_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\obj\Debug\net6.0\Assgnment_No_8.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\obj\Debug\net6.0\Assgnment_No_8.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\obj\Debug\net6.0\Assgnment_No_8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\obj\Debug\net6.0\Assgnment_No_8.dll
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\obj\Debug\net6.0\refint\Assgnment_No_8.dll
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\obj\Debug\net6.0\Assgnment_No_8.pdb
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\obj\Debug\net6.0\Assgnment_No_8.genruntimeconfig.cache
+C:\Users\Admin\source\repos\MyRepository\Assgnment_No_8\obj\Debug\net6.0\ref\Assgnment_No_8.dll
